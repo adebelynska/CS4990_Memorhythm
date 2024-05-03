@@ -4,8 +4,8 @@ Final Project generating AI.
 
 ## Getting Started
 
-This project is a Music app in Flutter using language Dart that:
+This project is a Music app in Flutter using the language Dart that:
 - gives the user a prompt to input words or phrases the user remembers from a song
-- gives the user a prompt to mention singer's name (optional, the user remembers it)
-- gives the user the list of genres to choose song's genre, additionally having "I'm not sure" option in case the user doesn't know it
-- has a generative AI that generates all these inputs (words/phrases, singer's name, genre), and give a list of songs containing those phrases/words, singer and genre
+- gives the user a prompt to mention the singer's name (optional, if the user remembers it)
+- has a generative AI that generates all these inputs (words/phrases and artist's name), 
+  and gives a list of songs (up to 5 songs) that the user may refer to.
